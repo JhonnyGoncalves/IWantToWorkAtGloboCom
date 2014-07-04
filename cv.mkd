@@ -2,19 +2,56 @@ Vaga
 ====
 
 1. Produtos Globo.com;
-2. Plataforma de Comentários.
+2. Plataforma de Cadastro;
+3. Plataforma de Comentários.
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
-CV
+Jhonny Gonçalves Costa
 ==
+* Data de nascimento: 29/12/1991
+* Estado Civil: Casado
+* Naturalidade: Paraense
+* Nacionalidade: Brasileiro
 
-[Preencha aqui o seu cv]
+Objetivos
+=
+Executar com empenho a função na área de desenvolvimento e ainda adquirir uma experiência
+empreendedora, tendo como característica organização, responsabilidade e compromisso.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Formação escolar
+=
+Ensino Superior, cursando, 2013: “Tecnologia em Sistemas para Internet – Faculdades Associadas
+de Ariquemes – FAAr – Ariquemes, RO”
+Ensino médio completo, 2011. “E.E.E.F. M Barão de Igarapé Miri – Belém, PA.”
+
+Formação técnica
+=
+2014/Junho – Desenvolvedor em plataforma Web. (Linguagem: C# - MVC, Banco: SQL Server).
+– FAAr.
+2011/Janeiro – Montagem e manutenção de notebooks (Módulos: Hardware e Software).
+– Microlins.
+2010/Dezembro – Aluno Integrado: Qualificação em Tecnologia Digital (EAD)
+– Universidade Federal de Goiás, UFG.
+2010/Novembro – Web design (Módulos: HTML, fireworks, flash e Dreamweaver).
+– Instituto federal do Pará, IFPA.
+2008/Janeiro – Montagem e manutenção de computadores (Módulos: Hardware e Redes).
+– Microlins.
+
+Experiência profissional
+=
+Técnico em Informática – Global Informática - 01/06/2012 até 02/05/2014.
+
+Outras informações
+=
+* Participações em palestras, seminários e congressos:
+2014/ Março – Google Expert: Training Day 2014
+“Uma aula de AdWords, dada pelo próprio Google.”
+Local: Serviço Brasileiro de Apoio às Micro e Pequenas Empresas,
+SEBRAE – Porto-velho.
+* Microsoft Student Partner – MSP (jhonny.costa@studentpartner.com)
+* Carteira Nacional de Habilitação – Cat. A e B
+
+Links
+=
+https://twitter.com/JhonnyGoncalves
+https://www.facebook.com/jhonnygcosta
