@@ -1,7 +1,8 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+1. Produtos Globo.com;
+2. Plataforma de Comentários.
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
